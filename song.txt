@@ -1,2 +1,4 @@
 dd song1
 fg song2
+fg
+gh
