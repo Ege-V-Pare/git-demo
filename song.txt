@@ -1,9 +1,7 @@
 dd song1
 fg song2
-<<<<<<< HEAD
 fg
 gh
-=======
 song 3
 lite 4
->>>>>>> ebc583659ba88815612bf64e1a990463d41ca331
+
